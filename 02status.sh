@@ -1,5 +1,5 @@
 date
-uname -a
+uname -a 
 printenv
 python3 --version
 ls -R ~/Code
