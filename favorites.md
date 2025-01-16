@@ -2,11 +2,11 @@
 
 ## **Favorite Food**
 - enchiladas 
-- pizza
-- sushi
+- pizza 🍕
+- sushi 🍣
 
 ## **Favorite Fruit**
-- Mango 
-- Watermelon
-- Cherries
+- Mango 🥭
+- Watermelon 🍉
+- Cherries 🍒
 
