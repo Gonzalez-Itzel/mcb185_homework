@@ -1,11 +1,12 @@
 # Favorites 
 
-## Favorite Food
-- enchiladas
+## **Favorite Food**
+- enchiladas 
 - pizza
 - sushi
 
-## Favorite Fruit
+## **Favorite Fruit**
 - Mango 
 - Watermelon
 - Cherries
+
