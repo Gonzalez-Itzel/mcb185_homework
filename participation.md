@@ -1,4 +1,4 @@
-Participation
+Participation (:
 =============
 
 ## Instructions ##
