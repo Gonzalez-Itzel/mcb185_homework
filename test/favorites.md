@@ -1,16 +1,7 @@
-# **Favorites**
+# Favorite Food 
+- pizza
+- sushi
+- enchiladas
 
-## **Favorite Foods**
-- Sushi
-- Pizza
-- Enchiladas
-
-## **Favorite Fruits**
-- Mango
-- Watermelon
-- Pineapple
-
-## **Favorite Movies** 
-- Nemo
-- Monsters Inc.
-- Jurassic Park
+# Favorite Songs
+ 
