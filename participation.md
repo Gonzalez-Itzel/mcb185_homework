@@ -32,9 +32,9 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Total 2 points
 - Week 2
 	+ Attend class on Tuesday
-	+ I met Mike on Thursday
-	+ I helped Mikaeyla to understand commands for the 04spellingbee hw
-	+ Total 1 point (Hi)
+	+ I met Mike on Thursday and completed the assessment in class together
+	+ I helped Mikaeyla explain commands for the 04spellingbee hw
+	+ Total 3 point (Hi)
 - Week 3
 - Week 4
 - Week 5
