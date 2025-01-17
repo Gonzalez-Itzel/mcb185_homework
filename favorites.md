@@ -1,12 +1,20 @@
 # Favorites 
 
-## **Favorite Food**
-- enchiladas 
+# I have a lot of favorite items, however here are a few things!
+
+### **Favorite Food**
+- enchiladas    
 - pizza 🍕
 - sushi 🍣
 
-## **Favorite Fruit**
+### **Favorite Fruit**
 - Mango 🥭
 - Watermelon 🍉
 - Cherries 🍒
+
+### **Favorite Animals**
+- Turtles 🐢
+- Rabbits 🐰
+- Dogs 🐶
+
 
