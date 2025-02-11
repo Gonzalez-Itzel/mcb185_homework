@@ -1,3 +1,5 @@
+# 23triples.py by Itzel Gonzalez
+
 import math 
 
 # Always start with a smaller limit and work your way up to ensure that it works
