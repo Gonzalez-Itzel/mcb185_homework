@@ -57,7 +57,11 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Completed an assessment with a Partner
 	+ Attended Class on Tuesday
 	+ Attended Class on Thursday 
-	+ Total 4 points
+	+ Discord Discussion with Livleen 
+	+ Total 5 points
 - Week 8
+	+ Attended Class on Tuesday 
+	+
+	+
 - Week 9
 - Week 10
