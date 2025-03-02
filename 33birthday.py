@@ -15,7 +15,7 @@ for t in range(trials):
 			shared += 1
 			break
 		classroom.append(birthday)
-		print(classroom)
+print(shared/trials)
 
 
 
