@@ -14,7 +14,7 @@ for i in range(trials):
 	for day in range(days):
 		calendar.append(0)	
 	
-	for people in range(people):
+	for person in range(people):
 		birthday = random.randint(0, days-1)
 		calendar[birthday] += 1
 	
