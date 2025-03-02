@@ -1,5 +1,5 @@
 # 41fasta.py by Itzel Gonzalez
-
+# Stepping through FASTA Files
 import sys
 import mcb185
 
