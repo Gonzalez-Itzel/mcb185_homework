@@ -1,21 +1,47 @@
 # 35scoringmatrix.py by Itzel Gonzalez
 import sys
 
-seq_1 = sys.argv[1]
-seq_2 = sys.argv[1] 
-match_score = int(sys.argv[2])
-mismatch_score = int(sys.argv[3])
+seq = sys.argv[1]
+match_score = sys.argv[2]
+mismatch_score = sys.argv[3]
 
-print("   " + "  ".join(seq_2))
+print("   " + "  ".join(seq))
 
-for i in range(0, len(seq_1)):
-    print(seq_1[i], end=" ")  
-    for j in range(0, len(seq_2)): 
-        if seq_1[i] == seq_2[j]: 
+for i in range(0, len(seq)):
+    print(seq[i], end=" ")  
+    for j in range(0, len(seq)): 
+        if seq[i] == seq[j]: 
             print(f"{match_score:>2}", end=" ") 
         else:
             print(f"{mismatch_score:>2}", end=" ")  
-    print()  
+    print() 
+
+# assessment without using no range, no f strings, and no join
+print("   ", end='')
+for nt in seq:
+	print(nt, end="  ")
+print()
+
+for nt1 in seq:
+	print(nt1, end= " ")
+	for nt2 in seq:
+		if nt1 == nt2: print(match_score, end=' ')
+		else: print(mismatch_score, end=' ')
+	print()
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+
+
 
 
 
