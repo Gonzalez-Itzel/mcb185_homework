@@ -61,7 +61,8 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Total 5 points
 - Week 8
 	+ Attended Class on Tuesday 
-	+
-	+
+	+ Attended Class on Thursday
+	+ Studied with Livleen for Unit 3 on Friday
+	+ total 5 point
 - Week 9
 - Week 10
