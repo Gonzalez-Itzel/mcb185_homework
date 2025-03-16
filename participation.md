@@ -28,23 +28,25 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Didn't come to class Thursday to save you from getting sick
 	+ Total 4 points
 - Week 1
-	+ Attend Class on Tuesday and Thursday 
+	+ Attend Class on Tuesday 
+	+ Attended Class on Thursday 
 	+ Total 2 points
 - Week 2
 	+ Attend class on Tuesday
-	+ I met Mike on Thursday and completed the assessment in class together
+	+ I met Mike on Thursday
+	+ I completed an assessment in class 
 	+ I helped Mikaeyla explain commands for the 04spellingbee hw
-	+ Total 3 point (Hi)
+	+ Total 4
 - Week 3
 	+ Attended class on Tuesday
 	+ Attended class on Thursday
-	+ Total 2 points
+	+ Total 2
 - Week 4
 	+ Attended Class on Tuesday
-	+ Total 2 points 	
+	+ Total 1 points 	
 - Week 5
 	+ Attended Class on Tuesday
-	+ Helped classmates with unit1 practice
+	+ Helped classmates with unit 1 practice
 	+ Attended Class on Thursday
 	+ Total 3 points
 - Week 6
@@ -58,11 +60,22 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Attended Class on Tuesday
 	+ Attended Class on Thursday 
 	+ Discord Discussion with Livleen 
-	+ Total 5 points
+	+ Total 4 points
 - Week 8
 	+ Attended Class on Tuesday 
 	+ Attended Class on Thursday
 	+ Studied with Livleen for Unit 3 on Friday
-	+ total 5 point
+	+ total 3 point
 - Week 9
+	+ Attended Class on Tuesday 
+	+ Attended Class on Thursday
+	+ Studied with Livleen for Unit 3 over the weekend and took assessment together
+	+ Helped Mikaela with 34birthday homework
+	+ Attempted an in-class assessment for unit 4 for practice
+	+ total 5 points 
 - Week 10
+	+ Attended Class on Tuesday
+	+ Studied with Livleen for Unit 4
+	+ Motivated myself and made an effort to attend class during the last week before finals
+	+ Attempted an in-class assessment for unit 4 for practice
+	+ total 4 points
