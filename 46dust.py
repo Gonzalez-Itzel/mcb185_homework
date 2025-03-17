@@ -1,3 +1,4 @@
+# 46dust.py by Itzel Gonzalez
 import math
 import sys
 import mcb185
