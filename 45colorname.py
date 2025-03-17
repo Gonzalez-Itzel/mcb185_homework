@@ -1,3 +1,5 @@
+# 45colorname.py by Itzel Gonzalez
+
 import sys
 
 colorfile = sys.argv[1]
