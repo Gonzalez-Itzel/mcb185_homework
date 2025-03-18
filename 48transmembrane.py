@@ -36,10 +36,11 @@ def kd_score(seq):
 		elif aa == 'K': h -= 3.9
 		elif aa == 'R': h -= 4.5
 	return h/len(seq)
+	
 
 def sig_peptide(seq): # looking for signal peptide in seq
 	sig_parameter = seq[:30] # only look at the first 30 aa
-	for i in range(len(sig_parameter) - 8 + 1):
+	for i in range(len(sig_parameter) - 8 + 1): # 8 aa long
 		signal = sig_parameter[i:i+8]
 		if 'P' in signal: 
 			continue
@@ -50,7 +51,7 @@ def sig_peptide(seq): # looking for signal peptide in seq
 
 def trans_membrane(seq):
 	sig_parameter = seq[30:]
-	for i in range(len(sig_parameter) - 11 + 1):
+	for i in range(len(sig_parameter) - 11 + 1): # 11 aa long
 		trans = sig_parameter[i:i+11]
 		if 'P' in trans:
 			continue
@@ -59,10 +60,19 @@ def trans_membrane(seq):
 			return True
 	return False
 
-for defline, seq in mcb185.read_fasta(path):
-	if sig_peptide(seq) == True and trans_membrane(seq) == True:
-		print(defline)
-	
 
-	
+# two functions into one
+def hah(seq, w, t): # creates flexibility
+	for i in range(len(seq) - w + 1): 
+		signal = sig_parameter[i:i+w]
+		if 'P' in signal: 
+			continue
+		kd = kd_score(signal)
+		if kd >= t:
+			return True
+	return False 
+
+for defline, seq in mcb185.read_fasta(path):
+	if hah(seq[:30], 8, 2.5) and hah(seq[30:], 11, 2):
+		print(defline)
 	
