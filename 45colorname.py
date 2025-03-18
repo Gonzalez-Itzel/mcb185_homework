@@ -15,7 +15,6 @@ def dtc(P1, P2): # P1 (3 #s) is from the command line and P2 is from the color f
 		d = d + abs(p1-p2) # summing all three numbers between the three numbers 
 	return d 
 
-
 with open(colorfile) as fp:
 	for line in fp:
 		words = line.split() 
@@ -32,7 +31,7 @@ with open(colorfile) as fp:
 		if diff < mini_diff: # going through the loop and comparing the difference to the diff_mini
 			diff = mini_diff
 			target_color = colorname # extracts the color name
-print(colorname)
+print(target_color)
 			
 			
 		
