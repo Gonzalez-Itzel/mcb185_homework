@@ -15,9 +15,10 @@ import itertools
 file = (sys.argv[1])
 kcount = {} # ex. ATCG:1, AATC: 2
 missing_kmers = [] # keeps tracks of missing kmers
-n = 0 #
+n = 0 
 
 for k in range(1, 10):
+kcount = {} # ex. ATCG:1, AATC: 2
 	for defline , seq in mcb185.read_fasta(file):
 		rev_seq = mcb185.anti_seq(seq)
 		strands = {'f_strand': seq, 'r_strand': rev_seq}
@@ -29,14 +30,8 @@ for k in range(1, 10):
 					kcount[kmer] = 0 # checks if kmer is in dictinary if not it initializes it
 				kcount[kmer] +=1
 	
+	if len(kcount) == 4**k: continue
 	for nts in itertools.product('ACGT', repeat=k): # generates all possible kmers
 		kmer = ''.join(nts)
-		if kmer not in kcount: 
-			n += 1
-			missing_kmers.append(kmer) # append missing kmers to missing_kmers container
-
-	if n > 0:
-		for kmer in missing_kmers:
-			print(kmer)
-		print(n, k)
-		break
+		if kmer not in kcount: print(kmer)
+	break
